@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlutterWidgets-master.iml" filepath="$PROJECT_DIR$/FlutterWidgets-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/app/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/build/app/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/flutter_webview_plugin/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/build/flutter_webview_plugin/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/flutter_webview_plugin/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/build/flutter_webview_plugin/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/android/app/src/main/main.iml" />
+      <module fileurl="file://$USER_HOME$/Videos/one/one.iml" filepath="$USER_HOME$/Videos/one/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/app/generated/source/r/r.iml" filepath="$PROJECT_DIR$/build/app/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/flutter_webview_plugin/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/build/flutter_webview_plugin/generated/source/r/r1.iml" />
+    </modules>
+  </component>
+</project>
